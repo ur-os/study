@@ -1,0 +1,32 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hw</title>
+    <link rel="stylesheet" href="{% static 'css/css.css'%}">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://darknet.lenta.ru/assets/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://darknet.lenta.ru/assets/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://darknet.lenta.ru/assets/favicons/favicon-16x16.png">
+</head>
+
+<body class="font_robotic">
+    <div class="row">
+        <div class="col">
+            <h1 class="glitch">Nb_select</h1>
+        </div>
+    </div>
+
+    <div class="row cybergreen">
+        <div class="col">
+            {% block menu %}
+            {% endblock %}
+        </div>
+        <div class="col">
+            {% block contents %}
+            {% endblock %}
+        </div>
+    </div>
+</body>
+</html>

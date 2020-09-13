@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block block_element %}
+    <div class="text-center">
+        {% for element in list %}
+            <div class="row">
+                <a href="info_elements/{{ element }}" class="nb_align-left cybergreen">
+                    {{ element }}
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+
+{% endblock %}

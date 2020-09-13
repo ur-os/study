@@ -1,0 +1,198 @@
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\panda\Рабочий стол\compile2\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\My Documents\Dimkiny_dokumenti\u4eba\7 семестр\Телекоммуникации и сети\Наш курсач\SerialPortCommunication\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\Копия Копия SerialPortCommunication\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication скины\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication jостальное\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v2\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v3\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\PCComm.Form3.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v4\SerialPortCommunication\obj\Debug\PCComm.Form4.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\PCComm.Form3.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\PCComm.Form4.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v5\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\PCComm.Form3.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\PCComm.Form4.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v7\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form3.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form4.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.exe.config
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.pdb
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.exe
+E:\Documents and Settings\Dimitar\Мои документы\Visual Studio 2010\Projects\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.pdb
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form3.resources
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form4.resources
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.exe
+C:\Users\Марк\Desktop\kurs_seti\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.pdb
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form3.resources
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form4.resources
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.exe
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.pdb
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.exe.config
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.exe
+C:\Users\Марк\Desktop\kurs_seti\сообщения\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.pdb
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.exe.config
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.exe
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\Chat.pdb
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojAssemblyReference.cache
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form1.resources
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form3.resources
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Form4.resources
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.cache
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.exe
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.pdb
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\MathNet.Numerics.dll
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\bin\Debug\MathNet.Numerics.xml
+C:\Users\Vadim\Documents\СТ\iu5.7sem.st.kurs.2010chat1\[2010] Чят\наша программа\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.CopyComplete
+C:\Users\ur0s\Desktop\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache
+C:\Users\ur0s\Desktop\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.exe
+C:\Users\ur0s\Desktop\SerialPortCommunication v8\SerialPortCommunication\obj\Debug\Chat.pdb

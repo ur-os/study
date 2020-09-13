@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block contents %}
+<form method="POST">
+   {% csrf_token %}
+        <div class="col">
+            <label>
+               <b>Логин:</b><br>
+               <input type="text" name="username" class="">
+            </label><br>
+            <label>
+               <b>Пароль:</b><br>
+               <input type="password" name="password" class="align-left">
+            </label><br>
+            <label>
+               <b>Повторите ввод:</b><br>
+               <input type="password" name="password2" class="align-left">
+            </label><br>
+        </div>
+        <div class="col">
+            <button type="submit"><b>Зарегистрировать</b></button>
+        </div>
+</form>
+{% endblock %}

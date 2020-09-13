@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res"/>
+    <qresource prefix="/img">
+        <file>ind_red.png</file>
+        <file>ind_on.png</file>
+        <file>ind_off.png</file>
+        <file>58f3750ea4fa116215a9240b.png</file>
+    </qresource>
+</RCC>

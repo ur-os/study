@@ -1,0 +1,27 @@
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Release\ResolveAssemblyReference.cache
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Release\PCComm.Properties.Resources.resources
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Release\SerialPortCommunication.csproj.GenerateResource.Cache
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\bin\Release\SerialPortCommunication.exe.config
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\bin\Release\SerialPortCommunication.exe
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\bin\Release\SerialPortCommunication.pdb
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Release\SerialPortCommunication.exe
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Release\SerialPortCommunication.pdb
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Release\PCComm.frmMain.resources
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+E:\PC_Projects\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+C:\Documents and Settings\Richard L. McCutchen\Desktop\SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache

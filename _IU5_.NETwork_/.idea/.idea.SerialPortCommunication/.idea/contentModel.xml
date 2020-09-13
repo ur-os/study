@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ur0s\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ur0s\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_SerialPortCommunication.-16331965.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ur0s\Desktop\SerialPortCommunication v8" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SerialPortCommunication" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClassDiagram1.cd" t="Include" />
+        <e p="CommunicationManager.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Form3.cs" t="Include" />
+        <e p="Form3.Designer.cs" t="Include" />
+        <e p="Form3.resx" t="Include" />
+        <e p="Form4.cs" t="Include" />
+        <e p="Form4.Designer.cs" t="Include" />
+        <e p="Form4.resx" t="Include" />
+        <e p="frmMain.cs" t="Include" />
+        <e p="frmMain.Designer.cs" t="Include" />
+        <e p="frmMain.resx" t="Include" />
+        <e p="HammingSmall.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="bg.jpg" t="Include" />
+          <e p="bg1.jpg" t="Include" />
+          <e p="Communications.jpg" t="Include" />
+          <e p="Icon1.ico" t="Include" />
+        </e>
+        <e p="SerialPortCommunication.csproj" t="IncludeRecursive" />
+        <e p="Settings.cs" t="Include" />
+        <e p="Testing.cs" t="Include" />
+      </e>
+      <e p="SerialPortCommunication.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
